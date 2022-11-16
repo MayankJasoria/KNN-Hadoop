@@ -149,7 +149,7 @@
     <properties>
         <hadoop.version>3.2.0</hadoop.version>
         <spark.version>2.4.4</spark.version>
-        <jackson.version>2.12.1</jackson.version>
+        <jackson.version>2.12.7.1</jackson.version>
         <jersey.version>2.22.2</jersey.version>
     </properties>
 
